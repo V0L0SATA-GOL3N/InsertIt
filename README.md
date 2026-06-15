@@ -1,8 +1,19 @@
 # InsertIt
-A game from VolosataGolen studios made back in 2023. Wont update in future
 
-# Credits
-[InsertItMaster (alxlemesh)](github.com/alxlemesh)
-and
-Discord: evilpower
+A game developed by **VolosataGolen Studios** in 2023.
 
+This project is no longer being actively developed and will not receive future updates.
+
+## Credits
+
+### Development
+
+* **InsertItMaster** (GitHub: alxlemesh)
+
+### Additional Contributions
+
+* **evilpower** (Discord)
+
+## License
+
+in LICENSE
